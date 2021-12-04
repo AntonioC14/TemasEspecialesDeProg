@@ -1,2 +1,2 @@
 # TemasEspecialesDeProg
-Imagen en forma de hexagono
+Actividades de TEP 2021-1
